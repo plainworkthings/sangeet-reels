@@ -1,0 +1,86 @@
+{
+  "moves": [
+    {
+      "name": "Shoulder bounce",
+      "how": "Knees soft, bounce on the beat and let your shoulders rise and drop, alternating sides."
+    },
+    {
+      "name": "Ek-hath-upar",
+      "how": "One hand up, palm open, the other low; switch hands every beat."
+    },
+    {
+      "name": "Do-hath-upar / Balle-balle",
+      "how": "Both arms up over your head, wrists turning, with a bounce."
+    },
+    {
+      "name": "Thumka",
+      "how": "A small hip thrust to one side on the beat, with a flick of the wrist."
+    },
+    {
+      "name": "Step-touch",
+      "how": "Step right, tap left beside it; step left, tap right. Add a clap."
+    },
+    {
+      "name": "Chakkar",
+      "how": "A spin on the spot, one hand up, finishing on the beat."
+    },
+    {
+      "name": "Light bulb",
+      "how": "Twist one hand above your head as if screwing in a bulb, and bounce."
+    },
+    {
+      "name": "Pat the dog",
+      "how": "Alternate hands pushing down and patting the air in front of you."
+    },
+    {
+      "name": "Swag walk",
+      "how": "Slow confident walk, chin up, shoulders rolling, one hand pointing to the crowd."
+    },
+    {
+      "name": "Garba three-clap",
+      "how": "Step, clap, clap, clap while circling in a group."
+    }
+  ],
+  "combos": [
+    {
+      "id": "A",
+      "name": "Bhangra basics",
+      "counts": "1) shoulder bounce ×4. 2) ek-hath-upar ×4. 3) thumka and a small jump. 4) balle-balle arms on the drop."
+    },
+    {
+      "id": "B",
+      "name": "Swag freestyle",
+      "counts": "1) head-nod bounce ×4. 2) swag walk ×4 steps. 3) chest pop and point. 4) light bulb or pat the dog on the drop."
+    },
+    {
+      "id": "C",
+      "name": "Bollywood party",
+      "counts": "1) step-touch ×4. 2) clap. 3) hands-up sway ×4. 4) chakkar and thumka."
+    },
+    {
+      "id": "D",
+      "name": "Couple sway",
+      "counts": "1) hold hands, sway ×4. 2) twirl your partner. 3) step forward and back together. 4) finish with a soft dip or forehead touch."
+    },
+    {
+      "id": "E",
+      "name": "Sangeet sway",
+      "counts": "1) hip sway ×4 with wrist circles. 2) chakkar. 3) hand-to-cheek shy pose. 4) circle clap with the group."
+    },
+    {
+      "id": "F",
+      "name": "Retro filmi",
+      "counts": "1) disco point, arm up diagonally ×4. 2) hip shake. 3) hand wave. 4) turn."
+    },
+    {
+      "id": "G",
+      "name": "Garba",
+      "counts": "Three-clap garba in a circle: step-clap-clap-clap, twirl on the chorus."
+    },
+    {
+      "id": "H",
+      "name": "Gidda",
+      "counts": "Clap, bend, push your hands side to side, turn in a circle."
+    }
+  ]
+}

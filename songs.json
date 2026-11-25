@@ -1,0 +1,4013 @@
+{
+  "source": "scripts/guide-source.tsx",
+  "count": 241,
+  "danceVideoCount": 237,
+  "sections": [
+    {
+      "id": "groom",
+      "label": "Groom & groom squad",
+      "short": "Groom squad",
+      "count": 27
+    },
+    {
+      "id": "bride",
+      "label": "Bride & bridesmaids",
+      "short": "Bride",
+      "count": 20
+    },
+    {
+      "id": "couplePunjabi",
+      "label": "Couple dances: Punjabi",
+      "short": "Punjabi",
+      "count": 10
+    },
+    {
+      "id": "coupleRomantic",
+      "label": "Couples: romantic & dreamy",
+      "short": "Romantic",
+      "count": 22
+    },
+    {
+      "id": "coupleOld",
+      "label": "Couples: old classics",
+      "short": "Old classics",
+      "count": 14
+    },
+    {
+      "id": "entry",
+      "label": "Groom entry & solo",
+      "short": "Groom entry",
+      "count": 12
+    },
+    {
+      "id": "groupParty",
+      "label": "Group & Punjabi party",
+      "short": "Punjabi party",
+      "count": 17
+    },
+    {
+      "id": "oldPunjabi",
+      "label": "Old Punjabi hits",
+      "short": "Old Punjabi",
+      "count": 10
+    },
+    {
+      "id": "karan",
+      "label": "Karan Aujla",
+      "short": "Karan Aujla",
+      "count": 32
+    },
+    {
+      "id": "dance",
+      "label": "Dance & party hits",
+      "short": "Dance hits",
+      "count": 48
+    },
+    {
+      "id": "fun",
+      "label": "Fun & upbeat",
+      "short": "Fun",
+      "count": 25
+    },
+    {
+      "id": "oldBolly",
+      "label": "Old Bollywood hits",
+      "short": "Old Bollywood",
+      "count": 19
+    },
+    {
+      "id": "classics",
+      "label": "80s, 90s and 20s classics",
+      "short": "80s & 90s",
+      "count": 30
+    },
+    {
+      "id": "diljit",
+      "label": "Diljit",
+      "short": "Diljit",
+      "count": 19
+    }
+  ],
+  "songs": [
+    {
+      "id": "na-de-dil-pardesi-nu",
+      "title": "Na De Dil Pardesi Nu",
+      "artist": "Muhammad Sadiq & Ranjit Kaur (1995 Punjabi folk-pop track, also called “Jogi”), reused in the 2025 film Dhurandhar",
+      "sections": [
+        "groom"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo A. Dhol-style bounce, ek-hath-upar with a finger pointing up on the chorus, squad forms a circle.",
+      "originalVideoId": "8MxhP3USqas",
+      "tutorialVideoId": "Bx4lYHV9QRY",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "jhoome-jo-pathaan",
+      "title": "Jhoome Jo Pathaan",
+      "artist": "Pathaan (2023), Arijit Singh & Sukriti Kakar, Shah Rukh Khan and Deepika Padukone",
+      "sections": [
+        "groom",
+        "fun"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "choreographer Bosco Martis kept it cool and easy (“universally achievable”). Simplified: 1) relaxed bounce ×4, 2) side sway with loose arm swings, 3) open-arms pose, 4) repeat. Use the tutorial for exact counts.",
+      "sangeetVersion": "Combo C. Whole squad in a line copies the same two counts; stay laid-back, no jumping.",
+      "originalVideoId": "YxWlaYCA8MU",
+      "tutorialVideoId": "pB5INAC8bIY",
+      "hookKind": "steps",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "tauba-tauba",
+      "title": "Tauba Tauba",
+      "artist": "Karan Aujla, Bad Newz (2024), Vicky Kaushal, choreographed by Bosco Martis",
+      "sections": [
+        "groom",
+        "karan",
+        "fun"
+      ],
+      "difficulty": "Medium",
+      "hookSteps": "1) Twist your right leg and do the “tauba” step. 2) Twist your feet outward and do the tauba step with the opposite hand and leg. 3) Step forward once, then step back using the tauba step on the opposite side. 4) Add small sharp jerks and some swag.",
+      "sangeetVersion": "Do the hook on every “tauba tauba” line and Combo B in the verses. Squad in two lines looks great. Slow it down to half speed to learn.",
+      "originalVideoId": "LK7-_dgAVQE",
+      "tutorialVideoId": "Q40PAIRLBaM",
+      "hookKind": "steps",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "malhari",
+      "title": "Malhari",
+      "artist": "Bajirao Mastani (2015), Vishal Dadlani, Ranveer Singh",
+      "sections": [
+        "groom"
+      ],
+      "difficulty": "Medium",
+      "hookSteps": "simplified from the video: 1) wide stance, fists at chest. 2) Stomp forward and thump your chest. 3) Swing both arms up and over with a hop. 4) Repeat on each “Malhari”.",
+      "sangeetVersion": "Power version: stomp, chest-thump, arms-up roar on the dhol hits. Groom can lead from the front.",
+      "originalVideoId": "l_MyUGq7pgs",
+      "tutorialVideoId": "Sg_OSP-V-1w",
+      "hookKind": "steps",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "zinda-banda",
+      "title": "Zinda Banda",
+      "artist": "Jawan (2023), Anirudh Ravichander, Shah Rukh Khan",
+      "sections": [
+        "groom"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C with big group energy: step-touch, arms up, everyone shouts “Zinda banda!”.",
+      "originalVideoId": "stjZKBhQ3lg",
+      "tutorialVideoId": "iOzxD77FqTc",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "sher-khul-gaye",
+      "title": "Sher Khul Gaye",
+      "artist": "Fighter (2024), Hrithik Roshan and Deepika Padukone",
+      "sections": [
+        "groom",
+        "fun"
+      ],
+      "difficulty": "Medium",
+      "hookSteps": "Hrithik has a smooth, groove-based signature step taught in tutorials; I have not broken it into counts, so use the linked tutorial.",
+      "sangeetVersion": "Combo C with a smooth groove; sync the squad on the chorus.",
+      "originalVideoId": "exdsbFvhocI",
+      "tutorialVideoId": "y1XgKzt3AT8",
+      "hookKind": "steps",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "brothers-anthem",
+      "title": "Brothers Anthem",
+      "artist": "Brothers (2015), Akshay Kumar and Sidharth Malhotra",
+      "sections": [
+        "groom"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo B. Walk-in swag, boxer-style flex poses, shoulder bounce.",
+      "originalVideoId": "feAANF9QVt0",
+      "tutorialVideoId": "YquVx1RsA9Y",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "sultan-title-track",
+      "title": "Sultan Title Track",
+      "artist": "Sultan (2016), Salman Khan",
+      "sections": [
+        "groom"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo A. Wrestler flex poses, then dhol bounce and ek-hath-upar.",
+      "originalVideoId": "YI9kYJZO9co",
+      "tutorialVideoId": "N9DBxgyLYdw",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "apna-time-aayega",
+      "title": "Apna Time Aayega",
+      "artist": "Gully Boy (2019), Ranveer Singh",
+      "sections": [
+        "groom"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo B. Hip-hop bounce, point to the sky on “apna time”, arm wave.",
+      "originalVideoId": "jFGKJBPFdUA",
+      "tutorialVideoId": "WC-gbPWvXxI",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "sauda-khara-khara",
+      "title": "Sauda Khara Khara",
+      "artist": "Good Newwz (2019), Diljit Dosanjh, Sukhbir, Dhvani Bhanushali, with Akshay Kumar",
+      "sections": [
+        "groom",
+        "groupParty"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo A, pure bhangra: shoulder bounce, ek-hath-upar, thumka on “khara khara”.",
+      "originalVideoId": "LYEqeUr-158",
+      "tutorialVideoId": "QvigW9_NR-o",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "ainvayi-ainvayi",
+      "title": "Ainvayi Ainvayi",
+      "artist": "Band Baaja Baaraat (2010), Ranveer Singh and Anushka Sharma",
+      "sections": [
+        "groom",
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo A: dhol bounce, shoulder shimmy, thumka.",
+      "originalVideoId": "pElk1ShPrcE",
+      "tutorialVideoId": "hRITvCaLHLU",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "desi-boyz",
+      "title": "Desi Boyz",
+      "artist": "Desi Boyz (2011), Akshay Kumar and John Abraham",
+      "sections": [
+        "groom"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo B. Swagger walk with shoulder bounce.",
+      "originalVideoId": "sY6nvCkdEKI",
+      "tutorialVideoId": "o5_yulcnOMw",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "tenu-leke",
+      "title": "Tenu Leke",
+      "artist": "Salaam-E-Ishq (2007)",
+      "sections": [
+        "groom"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo A, easy bhangra bounce.",
+      "originalVideoId": "HpLLe6chZnM",
+      "tutorialVideoId": "mhSlpjxazCw",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "aankh-marey",
+      "title": "Aankh Marey",
+      "artist": "Simmba (2018), Mika Singh, Neha Kakkar and Kumar Sanu, Ranveer Singh and Sara Ali Khan; remake of a 1996 song",
+      "sections": [
+        "groom",
+        "dance"
+      ],
+      "difficulty": "Medium",
+      "hookSteps": "simplified: 1) side-step right-left. 2) Playful wink or eye gesture on “aankh marey”. 3) Shoulder pop. 4) Quick spin. DA Choreo calls its tutorial perfect for a groomsmen dance.",
+      "sangeetVersion": "Combo C. Groomsmen line up and do the wink gesture together; the easiest crowd-pleaser.",
+      "originalVideoId": "_KhQT-LGb-4",
+      "tutorialVideoId": "h9ALWwF4it0",
+      "hookKind": "steps",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "mauja-hi-mauja",
+      "title": "Mauja Hi Mauja",
+      "artist": "Jab We Met (2007), Mika Singh, Shahid Kapoor",
+      "sections": [
+        "groom",
+        "classics"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo A: bounce, ek-hath-upar, thumka.",
+      "originalVideoId": "PaDaoNnOQaM",
+      "tutorialVideoId": "yq_o9ySnu6M",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "badtameez-dil",
+      "title": "Badtameez Dil",
+      "artist": "Yeh Jawaani Hai Deewani (2013), Benny Dayal, Ranbir Kapoor",
+      "sections": [
+        "groom"
+      ],
+      "difficulty": "Medium",
+      "hookSteps": "Ranbir’s cheeky hand and shoulder steps; an easy-steps tutorial exists. Learn it at half speed first.",
+      "sangeetVersion": "Combo C. Do the chorus step together and keep the verses to claps or a simple walk.",
+      "originalVideoId": "N0uDmkTV08Y",
+      "tutorialVideoId": "mO0ud2O12LE",
+      "hookKind": "steps",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "aaj-ki-party",
+      "title": "Aaj Ki Party",
+      "artist": "Bajrangi Bhaijaan (2015), Mika Singh, Salman Khan",
+      "sections": [
+        "groom"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Party hop with arms up.",
+      "originalVideoId": "lBqcaenI3wE",
+      "tutorialVideoId": "M0oV2wi9Z5I",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "gallan-goodiyaan",
+      "title": "Gallan Goodiyaan",
+      "artist": "Dil Dhadakne Do (2015)",
+      "sections": [
+        "groom"
+      ],
+      "difficulty": "Medium",
+      "hookSteps": "the video is a family group routine with the cast dancing in sync, not one hook step.",
+      "sangeetVersion": "Group sync routine: bounce, clap, shoulder rolls, chakkar. A tutorial for the group version is linked below.",
+      "originalVideoId": "9fxfKaTOAV0",
+      "tutorialVideoId": "xb3qW70hoQY",
+      "hookKind": "steps",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "balam-pichkari",
+      "title": "Balam Pichkari",
+      "artist": "Yeh Jawaani Hai Deewani (2013), Vishal Dadlani and Shalmali Kholgade",
+      "sections": [
+        "groom"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "playful “pichkari” (water-gun) gestures. Simplified: 1) hold both hands like a water gun, 2) squirt side to side, 3) shoulder bounce.",
+      "sangeetVersion": "Combo C with the pichkari squirt; great at Holi-style moments.",
+      "originalVideoId": "OW0zhR5xtlE",
+      "tutorialVideoId": "btl1YNbFRDg",
+      "hookKind": "steps",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "dil-chori",
+      "title": "Dil Chori",
+      "artist": "Sonu Ke Titu Ki Sweety (2018), Yo Yo Honey Singh",
+      "sections": [
+        "groom"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo B: bounce on the beat, point on the hook line.",
+      "originalVideoId": "f0D-JYNIDCc",
+      "tutorialVideoId": "KT0X37SiFPQ",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "proper-patola",
+      "title": "Proper Patola",
+      "artist": "Namaste England (2018), Badshah, Diljit Dosanjh, Aastha Gill",
+      "sections": [
+        "groom",
+        "groupParty",
+        "oldPunjabi",
+        "diljit"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo A with a freeze on the “patola” line. A choreographed tutorial is linked below if you want a routine.",
+      "originalVideoId": "YmXJp4RtBCM",
+      "tutorialVideoId": "PL0veqwMfzk",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "abhi-toh-party-shuru-hui-hai",
+      "title": "Abhi Toh Party Shuru Hui Hai",
+      "artist": "Khoobsurat (2014), Badshah and Aastha Gill",
+      "sections": [
+        "groom"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Point to the floor on “party”, hips and shoulders.",
+      "originalVideoId": "u3ierLr0uTM",
+      "tutorialVideoId": "yIwfekqQKuc",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "kar-gayi-chull",
+      "title": "Kar Gayi Chull",
+      "artist": "Kapoor & Sons (2016), Badshah, Fazilpuria, Sukriti Kakar, Neha Kakkar",
+      "sections": [
+        "groom"
+      ],
+      "difficulty": "Medium",
+      "hookSteps": "a short hook step of 4 moves is taught in a one-minute tutorial.",
+      "sangeetVersion": "Combo C. Learn the 4-move hook and repeat it on the chorus.",
+      "originalVideoId": "-sWXx1mbgtU",
+      "tutorialVideoId": "o3G-lshqIfc",
+      "hookKind": "steps",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "kala-chashma",
+      "title": "Kala Chashma",
+      "artist": "Baar Baar Dekho (2016), Badshah, Neha Kakkar, Indeep Bakshi, Katrina Kaif and Sidharth Malhotra",
+      "sections": [
+        "groom",
+        "fun"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "the dark glasses plus choreographer Bosco Martis’s catchy hook step. Simplified: 1) sunglasses on. 2) Side-to-side bounce with alternate arm pumps. 3) Hop on the “ka-ka-ka” beats.",
+      "sangeetVersion": "Everyone wears sunglasses, same bounce and arm pumps, jump on the “ka-ka-ka” beats. Works for any age.",
+      "originalVideoId": "4WRJHbL4dAk",
+      "tutorialVideoId": "8dyf1quirBc",
+      "hookKind": "steps",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "saturday-saturday",
+      "title": "Saturday Saturday",
+      "artist": "Humpty Sharma Ki Dulhania (2014)",
+      "sections": [
+        "groom"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Easy step-touch and party arms.",
+      "originalVideoId": "rW9_-dVCmrM",
+      "tutorialVideoId": "iGUDk4rlgcs",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "tamma-tamma-again",
+      "title": "Tamma Tamma Again",
+      "artist": "Badrinath Ki Dulhania (2017), Varun Dhawan and Alia Bhatt; remake of the 1990 song from Thanedaar",
+      "sections": [
+        "groom"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Fast step-touch, arm pumps, spin.",
+      "originalVideoId": "EEX_XM6SxmY",
+      "tutorialVideoId": "27QTApFGm7Y",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "first-class",
+      "title": "First Class",
+      "artist": "Kalank (2019), Varun Dhawan and Alia Bhatt",
+      "sections": [
+        "groom"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Strut walk, shoulder shimmy, spin on the drop.",
+      "originalVideoId": "e8B0AzmXPV8",
+      "tutorialVideoId": "6pv6Gahk-HA",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "din-shagna-da",
+      "title": "Din Shagna Da",
+      "artist": "Phillauri (2017)",
+      "sections": [
+        "bride"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo E, slow and graceful; bride-and-friends circle.",
+      "originalVideoId": "0_jqfezGhjI",
+      "tutorialVideoId": "pKZmL-s0-9s",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "kudmayi",
+      "title": "Kudmayi",
+      "artist": "Rocky Aur Rani Kii Prem Kahaani (2023), Shahid Mallya",
+      "sections": [
+        "bride"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo E. Hip sway, wrist circles, a chakkar on the chorus.",
+      "originalVideoId": "4vFw1dzXQDs",
+      "tutorialVideoId": "kKeDFTfJakw",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "aaj-sajeya",
+      "title": "Aaj Sajeya",
+      "artist": "Goldie Sohel (2021 wedding single, bride video with Alaya F)",
+      "sections": [
+        "bride"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo E. Good for a bride entry or a solo; walk in slowly, then sway.",
+      "originalVideoId": "lFml8NrHoeo",
+      "tutorialVideoId": "1Zp1q2aZhfM",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "wedding"
+    },
+    {
+      "id": "madhanya",
+      "title": "Madhanya",
+      "artist": "Rahul Vaidya and Asees Kaur (2021 wedding single)",
+      "sections": [
+        "bride"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo E, romantic sway; bride and bridesmaids form two lines.",
+      "originalVideoId": "y0FKtuD7wDQ",
+      "tutorialVideoId": "Ix1zAsmdVb8",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "wedding"
+    },
+    {
+      "id": "ve-haaniyaan",
+      "title": "Ve Haaniyaan",
+      "artist": "Avvy Sra and Danny",
+      "sections": [
+        "bride"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo E, soft sway and wrist circles.",
+      "originalVideoId": "E_SbwSe15y0",
+      "tutorialVideoId": "7_j9VT5z_nU",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "ranjha",
+      "title": "Ranjha",
+      "artist": "Shershaah (2021), B Praak and Jasleen Royal",
+      "sections": [
+        "bride"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo E, slow; reach one hand out on the long notes.",
+      "originalVideoId": "V7LwfY5U5WI",
+      "tutorialVideoId": "7s60wy4Qmp0",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "heer",
+      "title": "Heer",
+      "artist": "Jab Tak Hai Jaan (2012), Harshdeep Kaur, A. R. Rahman (assumed to be this version)",
+      "sections": [
+        "bride"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo E, slow and emotional; sway and arm sweeps.",
+      "originalVideoId": "aNcxgxHcGYg",
+      "tutorialVideoId": "UAwVkQK24QM",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "laadki",
+      "title": "Laadki",
+      "artist": "Coke Studio @ MTV Season 4 (Sachin–Jigar, Tanishka Sanghvi, Kirtidan Gadhvi, Rekha Bhardwaj); also used in Angrezi Medium (2020)",
+      "sections": [
+        "bride"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo E, slow; works for a father-daughter or family moment.",
+      "originalVideoId": "5U9uP6riAZM",
+      "tutorialVideoId": "ZBbMEgq0Mxk",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "wedding"
+    },
+    {
+      "id": "kabira-encore",
+      "title": "Kabira Encore",
+      "artist": "Yeh Jawaani Hai Deewani (2013)",
+      "sections": [
+        "bride"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo E, very slow; bridesmaids sway with arm waves.",
+      "originalVideoId": "cZa80nt-Nbo",
+      "tutorialVideoId": "yPiRsyF3NnA",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "navrai-majhi",
+      "title": "Navrai Majhi",
+      "artist": "English Vinglish (2012), Sridevi",
+      "sections": [
+        "bride"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo E in a Marathi-wedding feel: walk, pallu sway, hand claps.",
+      "originalVideoId": "hEHNef66HT0",
+      "tutorialVideoId": "mJYEASbWMtY",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "sasural-genda-phool",
+      "title": "Sasural Genda Phool",
+      "artist": "Delhi-6 (2009), A. R. Rahman, Abhishek Bachchan",
+      "sections": [
+        "bride"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo H (gidda-style): clap, bend, push hands side to side, circle.",
+      "originalVideoId": "nqydfARGDh4",
+      "tutorialVideoId": "bTffiIAzYWM",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "radha",
+      "title": "Radha",
+      "artist": "Student of the Year (2012), Udit Narayan and Shreya Ghoshal",
+      "sections": [
+        "bride"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo E. Fun sway with a chakkar and a hand-on-cheek pose.",
+      "originalVideoId": "52deq20h6Q4",
+      "tutorialVideoId": "rOSm49BS73o",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "banno",
+      "title": "Banno",
+      "artist": "Tanu Weds Manu Returns (2015), Kangana Ranaut",
+      "sections": [
+        "bride",
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo H. Folk-style clapping and a bride walk with a shy ghungat pose.",
+      "originalVideoId": "2PqKrsS4Fuw",
+      "tutorialVideoId": "6Ks0E2GUquo",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "nagada-sang-dhol",
+      "title": "Nagada Sang Dhol",
+      "artist": "Goliyon Ki Raasleela Ram-Leela (2013), Shreya Ghoshal and Osman Mir, Deepika Padukone and Ranveer Singh",
+      "sections": [
+        "bride",
+        "dance"
+      ],
+      "difficulty": "Medium",
+      "hookSteps": "garba with twirling turns (Deepika’s version is the one everyone copies).",
+      "sangeetVersion": "Combo G, three-clap garba in a circle; add a twirl on the chorus.",
+      "originalVideoId": "3X7x4Ye-tqo",
+      "tutorialVideoId": "geC3v1ZW3Bw",
+      "hookKind": "steps",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "dholida",
+      "title": "Dholida",
+      "artist": "Loveyatri (2018), a garba number",
+      "sections": [
+        "bride"
+      ],
+      "difficulty": "Medium",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo G. Three-clap garba, circle moves, dandiya optional.",
+      "originalVideoId": "rz1hAo3Hiy4",
+      "tutorialVideoId": "PvSRrmxyVug",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "tareefan",
+      "title": "Tareefan",
+      "artist": "Veere Di Wedding (2018), QARAN and Badshah",
+      "sections": [
+        "bride"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C for bridesmaids: point, hair flip, step-touch, blow a kiss on “tareefan”.",
+      "originalVideoId": "3SWc5G8Gx7E",
+      "tutorialVideoId": "hgXI1LTuM5Q",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "chalka-chalka-re",
+      "title": "Chalka Chalka Re",
+      "artist": "Saathiya (2002)",
+      "sections": [
+        "bride"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo E with a playful bounce; bridesmaid group circle.",
+      "originalVideoId": "TajntghwrSE",
+      "tutorialVideoId": "E1UEswsEURA",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "nainowale-ne",
+      "title": "Nainowale Ne",
+      "artist": "Padmaavat (2018), Neeti Mohan, Deepika Padukone",
+      "sections": [
+        "bride"
+      ],
+      "difficulty": "Medium",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo E, slower: hand circles near the eyes and graceful head tilts.",
+      "originalVideoId": "xE9FBL7jUGA",
+      "tutorialVideoId": "Np3Dy867ymw",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "ghar-more-pardesiya",
+      "title": "Ghar More Pardesiya",
+      "artist": "Kalank (2019), Shreya Ghoshal and Vaishali Mhade, Alia Bhatt and Madhuri Dixit",
+      "sections": [
+        "bride",
+        "dance"
+      ],
+      "difficulty": "Hard",
+      "hookSteps": "classical-style twirls with hand gestures in the video (Madhuri leads).",
+      "sangeetVersion": "Simplify to Combo E: slow sway, hand mudras, two chakkars. The full version is hard.",
+      "originalVideoId": "Deb9SA9Sfe4",
+      "tutorialVideoId": "B_zL96TKFvU",
+      "hookKind": "steps",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "mere-haathon-mein",
+      "title": "Mere Haathon Mein",
+      "artist": "Chandni (1989), Sridevi and Lata Mangeshkar",
+      "sections": [
+        "bride"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo E. Hold both hands up and twirl your wrists to “show off the bangles”.",
+      "originalVideoId": "Oo-WHs3bw34",
+      "tutorialVideoId": "wdNgOAXRWyg",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "lover",
+      "title": "Lover",
+      "artist": "Diljit Dosanjh (Moon Child Era)",
+      "sections": [
+        "couplePunjabi",
+        "groupParty",
+        "diljit"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo D with a bhangra twist: bounce together, ek-hath-upar toward your partner, partner twirl.",
+      "originalVideoId": "mH_LFkWxpI0",
+      "tutorialVideoId": "GxhaZ1ydC-M",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "hass-hass",
+      "title": "Hass Hass",
+      "artist": "Diljit Dosanjh and Sia",
+      "sections": [
+        "couplePunjabi",
+        "diljit"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo D. Face each other, sway ×4, twirl, repeat.",
+      "originalVideoId": "jADTdg-o8i0",
+      "tutorialVideoId": "RgEVNq4tcSw",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "kinni-kinni",
+      "title": "Kinni Kinni",
+      "artist": "Diljit Dosanjh (Ghost)",
+      "sections": [
+        "couplePunjabi",
+        "diljit"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo D with a gentle bounce.",
+      "originalVideoId": "L-GWy4TM_bQ",
+      "tutorialVideoId": "6ZyOEq1HRsM",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "do-you-know",
+      "title": "Do You Know",
+      "artist": "Diljit Dosanjh (2016 single)",
+      "sections": [
+        "couplePunjabi",
+        "oldPunjabi",
+        "diljit"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo D in the verses, then bhangra bounce on the drop.",
+      "originalVideoId": "P-DhwN87JDY",
+      "tutorialVideoId": "l6Vs_oD7BLA",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "naina",
+      "title": "Naina",
+      "artist": "Diljit Dosanjh (also a song in the film Crew, 2024)",
+      "sections": [
+        "couplePunjabi",
+        "fun",
+        "diljit"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo D. Easy sway with a hand-on-heart pose.",
+      "originalVideoId": "3u6lLWGjFLY",
+      "tutorialVideoId": "Kcw30DzCeZw",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "ikk-kudi",
+      "title": "Ikk Kudi",
+      "artist": "Diljit Dosanjh, Udta Punjab (2016)",
+      "sections": [
+        "couplePunjabi",
+        "groupParty"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo D, slow. Partner twirl on the chorus.",
+      "originalVideoId": "ZbX_nlzv7uU",
+      "tutorialVideoId": "T8dYL5WMxwQ",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "honsla-rakh",
+      "title": "Honsla Rakh",
+      "artist": "Honsla Rakh (2021 film), Diljit Dosanjh, Shehnaaz Gill and Sonam Bajwa",
+      "sections": [
+        "couplePunjabi"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo D with a bhangra bounce; fun for an upbeat couple entry.",
+      "originalVideoId": "9d_2OecZs40",
+      "tutorialVideoId": "Nab-XZpUmIU",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "film"
+    },
+    {
+      "id": "dil-tu-jaan-tu",
+      "title": "Dil Tu Jaan Tu",
+      "artist": "Gurnazar and Chet Singh (2024 viral hit)",
+      "sections": [
+        "couplePunjabi"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo D. Close hold, sway ×4, twirl, forehead touch to finish.",
+      "originalVideoId": "kyjg5kX4pT0",
+      "tutorialVideoId": "euR7c0KsPik",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "khair-mangdi",
+      "title": "Khair Mangdi",
+      "artist": "Bilal Saeed featuring Fateh",
+      "sections": [
+        "couplePunjabi"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo D, then bhangra bounce on the beat drop.",
+      "originalVideoId": "wN3ROG-no7I",
+      "tutorialVideoId": "JntoGJ2LkDE",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "sajjan-singh-rangroot",
+      "title": "Sajjan Singh Rangroot",
+      "artist": "Sajjan Singh Rangroot (2018 film), Diljit Dosanjh; the title as listed is probably the song “Sajjna”",
+      "sections": [
+        "couplePunjabi"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo D, slow and sweet.",
+      "originalVideoId": "MpCPfD93j_A",
+      "tutorialVideoId": "IMuNnpNw6eM",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "film"
+    },
+    {
+      "id": "tumse-hi",
+      "title": "Tumse Hi",
+      "artist": "Jab We Met (2007), Mohit Chauhan",
+      "sections": [
+        "coupleRomantic"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D, slow. Sway and a twirl.",
+      "originalVideoId": "mt9xg0mmt28",
+      "tutorialVideoId": "5r3FKvQhw84",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "wedding"
+    },
+    {
+      "id": "dil-di-nazar",
+      "title": "Dil Di Nazar",
+      "artist": "Maine Pyaar Kyun Kiya (2005), Shaan",
+      "sections": [
+        "coupleRomantic"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D. Easy sway with hand-hold.",
+      "originalVideoId": "1QgypI2SiOc",
+      "tutorialVideoId": "K0TZvQC0__o",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "kya-mujhe-pyaar-hai",
+      "title": "Kya Mujhe Pyaar Hai",
+      "artist": "Woh Lamhe (2006), KK",
+      "sections": [
+        "coupleRomantic"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D, slow.",
+      "originalVideoId": "lTUfay1zAkk",
+      "tutorialVideoId": "5mpg7C5O_Js",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "kesariya",
+      "title": "Kesariya",
+      "artist": "Brahmastra (2022), Arijit Singh",
+      "sections": [
+        "coupleRomantic"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D. Sway, twirl, step back and together.",
+      "originalVideoId": "BddP6PYo2gs",
+      "tutorialVideoId": "9mHzKVSbkx4",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "raataan-lambiyan",
+      "title": "Raataan Lambiyan",
+      "artist": "Shershaah (2021), Jubin Nautiyal and Asees Kaur",
+      "sections": [
+        "coupleRomantic"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D. Slow sway with a lift of the hand.",
+      "originalVideoId": "3EJGAKPifNs",
+      "tutorialVideoId": "lSftjwy2YNQ",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "apna-bana-le",
+      "title": "Apna Bana Le",
+      "artist": "Bhediya (2022), Arijit Singh",
+      "sections": [
+        "coupleRomantic"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D, slow.",
+      "originalVideoId": "Mz33cm7A-Kc",
+      "tutorialVideoId": "yTlDHyyWTok",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "tere-vaaste",
+      "title": "Tere Vaaste",
+      "artist": "Zara Hatke Zara Bachke (2023), Varun Jain",
+      "sections": [
+        "coupleRomantic"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D, light bounce.",
+      "originalVideoId": "g5WZLO8BAC8",
+      "tutorialVideoId": "iiR-SuLra_4",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "heeriye",
+      "title": "Heeriye",
+      "artist": "Jasleen Royal and Arijit Singh (2023 single)",
+      "sections": [
+        "coupleRomantic"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D, mid-tempo sway.",
+      "originalVideoId": "RLzC55ai0eo",
+      "tutorialVideoId": "OP67zYcUE0o",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "o-maahi",
+      "title": "O Maahi",
+      "artist": "Dunki (2023), Arijit Singh",
+      "sections": [
+        "coupleRomantic"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D. Sway with arms opening on the chorus.",
+      "originalVideoId": "Etkd-07gnxM",
+      "tutorialVideoId": "Ywnip91X8-s",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "ve-kamleya",
+      "title": "Ve Kamleya",
+      "artist": "Rocky Aur Rani Kii Prem Kahaani (2023)",
+      "sections": [
+        "coupleRomantic"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D. Playful twirl.",
+      "originalVideoId": "QXJyMpxd210",
+      "tutorialVideoId": "_UvMYb2oyAU",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "tum-kya-mile",
+      "title": "Tum Kya Mile",
+      "artist": "Rocky Aur Rani Kii Prem Kahaani (2023)",
+      "sections": [
+        "coupleRomantic"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D, slow.",
+      "originalVideoId": "hacByYwJ_a4",
+      "tutorialVideoId": "_dK2JDSsgf4",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "wedding"
+    },
+    {
+      "id": "janam-janam",
+      "title": "Janam Janam",
+      "artist": "Dilwale (2015), Arijit Singh",
+      "sections": [
+        "coupleRomantic"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D.",
+      "originalVideoId": "cgmhimjsczk",
+      "tutorialVideoId": "wPjCjE-dl5I",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "tujh-mein-rab-dikhta-hai",
+      "title": "Tujh Mein Rab Dikhta Hai",
+      "artist": "Rab Ne Bana Di Jodi (2008), Roop Kumar Rathod",
+      "sections": [
+        "coupleRomantic"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D. Hold hands, sway, twirl.",
+      "originalVideoId": "qoq8B8ThgEM",
+      "tutorialVideoId": "aTanCUJDlhs",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "wedding"
+    },
+    {
+      "id": "tere-naina",
+      "title": "Tere Naina",
+      "artist": "My Name Is Khan (2010), Shankar Mahadevan",
+      "sections": [
+        "coupleRomantic"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D, slow sway.",
+      "originalVideoId": "qYjPxdLIuk0",
+      "tutorialVideoId": "ovdcxYTtagA",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "suraj-hua-maddham",
+      "title": "Suraj Hua Maddham",
+      "artist": "Kabhi Khushi Kabhie Gham (2001)",
+      "sections": [
+        "coupleRomantic"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D. Arms out on the chorus, partner twirl.",
+      "originalVideoId": "L0zKs8i7Nc8",
+      "tutorialVideoId": "irQB4F0kftQ",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "pehla-nasha",
+      "title": "Pehla Nasha",
+      "artist": "Jo Jeeta Wohi Sikandar (1992)",
+      "sections": [
+        "coupleRomantic"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D. Playful sway with a twirl.",
+      "originalVideoId": "SBfPs-PMGTA",
+      "tutorialVideoId": "OxgCuFh4BKE",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "wedding"
+    },
+    {
+      "id": "zara-sa",
+      "title": "Zara Sa",
+      "artist": "Jannat (2008), KK",
+      "sections": [
+        "coupleRomantic"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D.",
+      "originalVideoId": "ZsAOnmByy38",
+      "tutorialVideoId": "QBbwAAKu8NA",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "baahon-ke-darmiyan",
+      "title": "Baahon Ke Darmiyan",
+      "artist": "Khamoshi The Musical (1996)",
+      "sections": [
+        "coupleRomantic"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D, very slow, a classic slow dance.",
+      "originalVideoId": "SzOlSdqvKt0",
+      "tutorialVideoId": "NWl46wSmzKQ",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "tujhe-dekha-toh",
+      "title": "Tujhe Dekha Toh",
+      "artist": "Dilwale Dulhania Le Jayenge (1995)",
+      "sections": [
+        "coupleRomantic"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D. Groom opens his arms and the bride walks into the hold.",
+      "originalVideoId": "cNV5hLSa9H8",
+      "tutorialVideoId": "WaI9ZcRf1Xc",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "humko-humise-chura-lo",
+      "title": "Humko Humise Chura Lo",
+      "artist": "Mohabbatein (2000)",
+      "sections": [
+        "coupleRomantic"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D. Fun bounce plus twirl.",
+      "originalVideoId": "zWPsjhBaRb0",
+      "tutorialVideoId": "0G64QU2XsSM",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "saathiya",
+      "title": "Saathiya",
+      "artist": "Saathiya (2002) title song, Sonu Nigam",
+      "sections": [
+        "coupleRomantic"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D, slow.",
+      "originalVideoId": "eMA6GHTQ4WA",
+      "tutorialVideoId": "p0bTXF75tr8",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "aankhon-ki-gustakhiyan",
+      "title": "Aankhon Ki Gustakhiyan",
+      "artist": "Hum Dil De Chuke Sanam (1999), Kumar Sanu and Kavita Krishnamurthy",
+      "sections": [
+        "coupleRomantic"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D. Eye-contact and hand-on-heart poses.",
+      "originalVideoId": "7k5gM4ClRRo",
+      "tutorialVideoId": "F8BK8jMdjzI",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "aajkal-tere-mere-pyar-ke-charche",
+      "title": "Aajkal Tere Mere Pyar Ke Charche",
+      "artist": "Brahmachari (1968), Shammi Kapoor",
+      "sections": [
+        "coupleOld"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo F in couples: retro point and hip shake, then partner twirl.",
+      "originalVideoId": "6zO9X2ifboQ",
+      "tutorialVideoId": "E7OdKsqG_NQ",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "badan-pe-sitaare",
+      "title": "Badan Pe Sitaare",
+      "artist": "Prince (1969), Shammi Kapoor",
+      "sections": [
+        "coupleOld"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo F. Retro disco point, partner twirl.",
+      "originalVideoId": "wXAgK90Q97I",
+      "tutorialVideoId": "KT8d7oWc9No",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "wedding"
+    },
+    {
+      "id": "churaliya-hai-tumne-jo-dil-ko",
+      "title": "Churaliya Hai Tumne Jo Dil Ko",
+      "artist": "Yaadon Ki Baaraat (1973)",
+      "sections": [
+        "coupleOld"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D. Light sway, hand-waves.",
+      "originalVideoId": "seFeZOgyFsc",
+      "tutorialVideoId": "YIZ2nvo6pys",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "aye-meri-zohra-zabeen",
+      "title": "Aye Meri Zohra Zabeen",
+      "artist": "Waqt (1965)",
+      "sections": [
+        "coupleOld"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D, an elegant slow waltz-sway; good for older couples.",
+      "originalVideoId": "YkWrZzecJyM",
+      "tutorialVideoId": "ZeNpvXBV-qo",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "wedding"
+    },
+    {
+      "id": "pyar-hua-ikraar-hua",
+      "title": "Pyar Hua Ikraar Hua",
+      "artist": "Shree 420 (1955), Raj Kapoor and Nargis",
+      "sections": [
+        "coupleOld"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "the iconic scene is two people sharing an umbrella in the rain: 1) hold one umbrella, 2) walk in step, 3) lean into each other.",
+      "sangeetVersion": "Share one umbrella and walk in step. Easy and very photogenic.",
+      "originalVideoId": "xjxyculMGzE",
+      "tutorialVideoId": "-jzJi2BBHXQ",
+      "hookKind": "steps",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "taarif-karu-kya-usko",
+      "title": "Taarif Karu Kya Usko",
+      "artist": "Kashmir Ki Kali (1964), Shammi Kapoor",
+      "sections": [
+        "coupleOld"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo F. Retro pointing and partner twirl.",
+      "originalVideoId": "YYeG_cW0Om0",
+      "tutorialVideoId": "10-iu6jU1fg",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "cover"
+    },
+    {
+      "id": "ye-jawani-hai-deewani",
+      "title": "Ye Jawani Hai Deewani",
+      "artist": "Jawani Diwani (1972)",
+      "sections": [
+        "coupleOld"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo F. Fun bounce, hip shake, partner twirl.",
+      "originalVideoId": "xXqCk7tojfw",
+      "tutorialVideoId": "kS3t_wabVKQ",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "wedding"
+    },
+    {
+      "id": "in-aankhon-ki-masti",
+      "title": "In Aankhon Ki Masti",
+      "artist": "Umrao Jaan (1981), Rekha, Asha Bhosle",
+      "sections": [
+        "coupleOld"
+      ],
+      "difficulty": "Medium",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D with graceful hand movements and slow turns.",
+      "originalVideoId": "pwsjRraWgdA",
+      "tutorialVideoId": "3Hf2ubzBBBo",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "uden-jab-jab-zulfen-teri",
+      "title": "Uden Jab Jab Zulfen Teri",
+      "artist": "Naya Daur (1957)",
+      "sections": [
+        "coupleOld"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D. Light sway, step-hold, partner twirl.",
+      "originalVideoId": "0pwTTovXeko",
+      "tutorialVideoId": "nd8AE5ZZ5hU",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "wedding"
+    },
+    {
+      "id": "wah-wah-ramji",
+      "title": "Wah Wah Ramji",
+      "artist": "Hum Aapke Hain Koun..! (1994)",
+      "sections": [
+        "coupleOld"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C in a group wedding style; couples take turns in the middle.",
+      "originalVideoId": "634pxbIG0Qg",
+      "tutorialVideoId": "8OH6wmnUAyo",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "wedding"
+    },
+    {
+      "id": "say-shava-shava",
+      "title": "Say Shava Shava",
+      "artist": "Kabhi Khushi Kabhie Gham (2001)",
+      "sections": [
+        "coupleOld"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo A. Punjabi family bhangra, bounce and ek-hath-upar.",
+      "originalVideoId": "ZTARlM0pCP4",
+      "tutorialVideoId": "4AwTx0KX-ps",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "lagan-laagi-re",
+      "title": "Lagan Laagi Re",
+      "artist": "Amit Trivedi with Shreya Ghoshal and Kavita Seth (Songs of Love, 2021)",
+      "sections": [
+        "coupleOld"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D, slow.",
+      "originalVideoId": "w74c6Wnsz8g",
+      "tutorialVideoId": "zH_LdrYyw6o",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "cover"
+    },
+    {
+      "id": "dekha-tenu-pehli-pehli-baar-ve",
+      "title": "Dekha Tenu Pehli Pehli Baar Ve",
+      "artist": "Mr. & Mrs. Mahi (2024), Mohammad Faiz",
+      "sections": [
+        "coupleOld"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D with a bounce; partner twirl.",
+      "originalVideoId": "rMfugUZD2dA",
+      "tutorialVideoId": "seU5czLS-ik",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "tu-jo-mila",
+      "title": "Tu Jo Mila",
+      "artist": "Bajrangi Bhaijaan (2015), KK",
+      "sections": [
+        "coupleOld"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D, slow.",
+      "originalVideoId": "6DCOjq0omBc",
+      "tutorialVideoId": "CQHJVHEsugc",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "born-to-shine",
+      "title": "Born to Shine",
+      "artist": "Diljit Dosanjh (G.O.A.T. album, 2020)",
+      "sections": [
+        "entry",
+        "groupParty",
+        "diljit"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B as a solo entry: slow swag walk-in, collar pop, sunglasses on, pause on the beat drop and point.",
+      "originalVideoId": "dCmp56tSSmA",
+      "tutorialVideoId": "AQlAv0HK38g",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "g-o-a-t",
+      "title": "G.O.A.T.",
+      "artist": "Diljit Dosanjh (title track of the 2020 album)",
+      "sections": [
+        "entry",
+        "groupParty",
+        "diljit"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Confident walk-in, pause, pose, then bhangra bounce.",
+      "originalVideoId": "cl0a3i2wFcc",
+      "tutorialVideoId": "GeITJ1b6KhE",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "vibe",
+      "title": "Vibe",
+      "artist": "Diljit Dosanjh (Moon Child Era)",
+      "sections": [
+        "entry",
+        "groupParty",
+        "diljit"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Chilled bounce, shoulder roll, point to the crowd.",
+      "originalVideoId": "fyBzPE6w6-k",
+      "tutorialVideoId": "LcFyRFg8bes",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "clash",
+      "title": "Clash",
+      "artist": "Diljit Dosanjh (G.O.A.T. album)",
+      "sections": [
+        "entry",
+        "diljit"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B with a bhangra jump on the drops.",
+      "originalVideoId": "KX06ksuS6Xo",
+      "tutorialVideoId": "_7yI9ZfWnWU",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "lemonade",
+      "title": "Lemonade",
+      "artist": "Diljit Dosanjh (Drive Thru)",
+      "sections": [
+        "entry",
+        "diljit"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Light swag bounce, easy arms.",
+      "originalVideoId": "ZVgergj8Xe4",
+      "tutorialVideoId": "NepRt8pdltU",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "patiala-peg",
+      "title": "Patiala Peg",
+      "artist": "Diljit Dosanjh",
+      "sections": [
+        "entry",
+        "groupParty",
+        "oldPunjabi",
+        "diljit"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo A. Lift a pretend “peg” (glass) on the title line, then ek-hath-upar and thumka.",
+      "originalVideoId": "xB9-dsTC_0U",
+      "tutorialVideoId": "AxsKVEDjhJ0",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "5-taara",
+      "title": "5 Taara",
+      "artist": "Diljit Dosanjh",
+      "sections": [
+        "entry",
+        "groupParty",
+        "oldPunjabi",
+        "diljit"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo A. Hold up five fingers like stars on “5 taara”, then bounce and thumka.",
+      "originalVideoId": "oK8I_eg-p_8",
+      "tutorialVideoId": "-waf_os3Zzk",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "jatt-vailly",
+      "title": "Jatt Vailly",
+      "artist": "Diljit Dosanjh (Ghost)",
+      "sections": [
+        "entry",
+        "groupParty"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo A. Strong bhangra, chest out, ek-hath-upar.",
+      "originalVideoId": "RDQUGEOymnk",
+      "tutorialVideoId": "xKnmCuhWXfE",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "case",
+      "title": "Case",
+      "artist": "Diljit Dosanjh (Ghost)",
+      "sections": [
+        "entry",
+        "diljit"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Swag walk, lean back, point.",
+      "originalVideoId": "g-Ij0idc_dk",
+      "tutorialVideoId": "AG1O6OP0Hb4",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "khutti",
+      "title": "Khutti",
+      "artist": "Diljit Dosanjh",
+      "sections": [
+        "entry",
+        "diljit"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Shoulder bounce and pose on the beat drop.",
+      "originalVideoId": "3JABJHlY4Tw",
+      "tutorialVideoId": "S9KIoPQ0SkM",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "peaches",
+      "title": "Peaches",
+      "artist": "Diljit Dosanjh (Drive Thru)",
+      "sections": [
+        "entry",
+        "groupParty",
+        "diljit"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Smooth bounce; solo entry walk.",
+      "originalVideoId": "s0JTpcDu1Tk",
+      "tutorialVideoId": "MYh_kvyjjb0",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "cover"
+    },
+    {
+      "id": "gunda",
+      "title": "Gunda",
+      "artist": "Diljit Dosanjh, Intense, Raj Ranjodh and 604Blizzy (AURA, 2025)",
+      "sections": [
+        "entry"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Aggressive swag walk, shoulder roll, point.",
+      "originalVideoId": "bD4LylxDUoM",
+      "tutorialVideoId": "mBZnBudBZjg",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "cover"
+    },
+    {
+      "id": "laembadgini",
+      "title": "Laembadgini",
+      "artist": "Diljit Dosanjh (2016 single, music by Jatinder Shah)",
+      "sections": [
+        "groupParty",
+        "oldPunjabi"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo A. Everyone in a circle, bounce, ek-hath-upar, thumka.",
+      "originalVideoId": "15Sjjl_24x0",
+      "tutorialVideoId": "-4tLhSf8th4",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "lalkara",
+      "title": "Lalkara",
+      "artist": "Diljit Dosanjh and Sultaan (Ghost, 2023)",
+      "sections": [
+        "groupParty",
+        "diljit"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo A. Power bhangra: fist pumps, jumps on the “lalkara” line.",
+      "originalVideoId": "wUelhF_6518",
+      "tutorialVideoId": "idkUVf10TmA",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "tung-tung-baje",
+      "title": "Tung Tung Baje",
+      "artist": "Singh Is Bliing (2015), Diljit Dosanjh and the Nooran Sisters, Akshay Kumar",
+      "sections": [
+        "groupParty"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo A. Tumbi-style bounce, ek-hath-upar, group circle.",
+      "originalVideoId": "Vl38bvY_KqI",
+      "tutorialVideoId": "WEX2mnakvV4",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "balle-balle",
+      "title": "Balle Balle",
+      "artist": "Diljit Dosanjh (AURA, 2025)",
+      "sections": [
+        "groupParty"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo A. Pure bhangra with both arms up on “balle balle”.",
+      "originalVideoId": "_UnTqccrr_w",
+      "tutorialVideoId": "EfjQPh31GqQ",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "magic",
+      "title": "Magic",
+      "artist": "Diljit Dosanjh with The Quickstyle (Coke Studio Bharat, 2024)",
+      "sections": [
+        "groupParty",
+        "diljit"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Smooth swag bounce, shoulder roll.",
+      "originalVideoId": "mYWQ9dyBFlQ",
+      "tutorialVideoId": "WNy0gnoxbr8",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "bharaar",
+      "title": "Bharaar",
+      "artist": "listed under Diljit Dosanjh in your list; I could not verify a song by this exact name, so the video links point to “Faraar” from his G.O.A.T. album, the closest match",
+      "sections": [
+        "groupParty",
+        "diljit"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo A or B, whichever matches the tempo the DJ plays.",
+      "originalVideoId": "GWG9aaGUAVA",
+      "tutorialVideoId": "8EAR0sZI1ow",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "putt-jatt-da",
+      "title": "Putt Jatt Da",
+      "artist": "Diljit Dosanjh (2018 single, lyrics by Ikka, rap by Kaater)",
+      "sections": [
+        "oldPunjabi"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo A. Bhangra bounce, ek-hath-upar, chest out.",
+      "originalVideoId": "In0oiD2PDSc",
+      "tutorialVideoId": "lmTbtxvsR8g",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "raat-di-gedi",
+      "title": "Raat Di Gedi",
+      "artist": "Diljit Dosanjh (released December 2017)",
+      "sections": [
+        "oldPunjabi"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo A. Fun group bhangra bounce; couples can spin.",
+      "originalVideoId": "rKJOpAKGyHg",
+      "tutorialVideoId": "7tXHXtASg6g",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "el-sueno",
+      "title": "El Sueno",
+      "artist": "Diljit Dosanjh featuring Tru-Skool (2017)",
+      "sections": [
+        "oldPunjabi"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Smooth Spanish-Punjabi groove, swag walk.",
+      "originalVideoId": "u5szAqnRTwk",
+      "tutorialVideoId": "hAPloPQwwN4",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "high-end",
+      "title": "High End",
+      "artist": "Diljit Dosanjh (Con.Fi.Den.Tial, 2018)",
+      "sections": [
+        "oldPunjabi"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Hip-hop style bounce, shoulder rolls, point.",
+      "originalVideoId": "UCoogBnurWk",
+      "tutorialVideoId": "YwtH8TSFKuY",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "muchh",
+      "title": "Muchh",
+      "artist": "Diljit Dosanjh (2019 single)",
+      "sections": [
+        "oldPunjabi"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo A. Twirl an imaginary moustache on “muchh”, then bounce and ek-hath-upar.",
+      "originalVideoId": "7QdAkHjfldQ",
+      "tutorialVideoId": "HmP9KgXBD2s",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "softly",
+      "title": "Softly",
+      "artist": "Karan Aujla and Ikky (Making Memories, 2023)",
+      "sections": [
+        "karan",
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B in a smooth, slow-bounce style; couples can sway.",
+      "originalVideoId": "cWMxCE2HTag",
+      "tutorialVideoId": "jYUPjSrBsD8",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "winning-speech",
+      "title": "Winning Speech",
+      "artist": "Karan Aujla (single)",
+      "sections": [
+        "karan"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Confident bounce, point on punchlines.",
+      "originalVideoId": "vsWxs1tuwDk",
+      "tutorialVideoId": "sNWQY6n_JG4",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "52-bars",
+      "title": "52 Bars",
+      "artist": "Karan Aujla",
+      "sections": [
+        "karan"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Rap-style bounce and arm waves.",
+      "originalVideoId": "4DfVxVeqk2o",
+      "tutorialVideoId": "GQnFWOoW2IM",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "dont-look",
+      "title": "Don't Look",
+      "artist": "Karan Aujla",
+      "sections": [
+        "karan"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Head-nod bounce, swag walk.",
+      "originalVideoId": "YeiV39P09QQ",
+      "tutorialVideoId": "VzqEcScKEWE",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "on-top",
+      "title": "On Top",
+      "artist": "Karan Aujla",
+      "sections": [
+        "karan"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Swag bounce, shoulder roll, point up on “top”.",
+      "originalVideoId": "aFWDOFg7X2A",
+      "tutorialVideoId": "Bpjp3QDPI8U",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "chitta-kurta",
+      "title": "Chitta Kurta",
+      "artist": "Karan Aujla (single)",
+      "sections": [
+        "karan"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo A. Bhangra bounce plus a kurta-collar pop.",
+      "originalVideoId": "o9PY6NsB3_E",
+      "tutorialVideoId": "Gdx8k2t85Pg",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "mexico",
+      "title": "Mexico",
+      "artist": "Karan Aujla (single)",
+      "sections": [
+        "karan"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Chilled bounce, light swag walk.",
+      "originalVideoId": "5d3EuRN43bU",
+      "tutorialVideoId": "Aa9mBC1dc7U",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "players",
+      "title": "Players",
+      "artist": "Karan Aujla",
+      "sections": [
+        "karan"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Point, pose, bounce.",
+      "originalVideoId": "CeFQO9MQNqs",
+      "tutorialVideoId": "Qmo75jsIY18",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "gangsta",
+      "title": "Gangsta",
+      "artist": "Karan Aujla",
+      "sections": [
+        "karan"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Heavy swag walk, chest pop.",
+      "originalVideoId": "doVZWonpAF0",
+      "tutorialVideoId": "3dgHQxY7vNE",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "take-it-easy",
+      "title": "Take It Easy",
+      "artist": "Karan Aujla",
+      "sections": [
+        "karan"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B, relaxed head-nod bounce.",
+      "originalVideoId": "Guq9Vl8dK30",
+      "tutorialVideoId": "GmpUoHIxDIc",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "admirin-you",
+      "title": "Admirin' You",
+      "artist": "Karan Aujla (pasted as “Adm ir in' You”, listed twice)",
+      "sections": [
+        "karan"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B, smooth and slow; partners can sway.",
+      "originalVideoId": "Mfzk2V_gLfg",
+      "tutorialVideoId": "UrLi9pQBSEE",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "wavy",
+      "title": "Wavy",
+      "artist": "Karan Aujla (also listed under Diljit in your list)",
+      "sections": [
+        "karan"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B with a wave: roll your arms in a wavy motion.",
+      "originalVideoId": "XTp5jaRU3Ws",
+      "tutorialVideoId": "fQ2ZkgeMmlA",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "aaye-haaye",
+      "title": "Aaye Haaye",
+      "artist": "Karan Aujla (2024 single, with Nora Fatehi per search)",
+      "sections": [
+        "karan"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo C. Party bounce, hands up.",
+      "originalVideoId": "uChhQpHMmXE",
+      "tutorialVideoId": "mzDLBnUVBug",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "boyfriend",
+      "title": "Boyfriend",
+      "artist": "Karan Aujla",
+      "sections": [
+        "karan"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Playful swag bounce.",
+      "originalVideoId": "5GCfYLguTIs",
+      "tutorialVideoId": "G9Vcfb7eobg",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "for-a-reason",
+      "title": "For A Reason",
+      "artist": "Karan Aujla",
+      "sections": [
+        "karan"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Slow bounce, nod and point.",
+      "originalVideoId": "-YlmnPh-6rE",
+      "tutorialVideoId": "I5y9jGoHfTw",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "white-brown-black",
+      "title": "White Brown Black",
+      "artist": "Karan Aujla",
+      "sections": [
+        "karan",
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Group bounce, three-arm point (white, brown, black).",
+      "originalVideoId": "BtQp2U6hJII",
+      "tutorialVideoId": "wCvyn0lHjVs",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "dont-worry",
+      "title": "Don't Worry",
+      "artist": "Karan Aujla",
+      "sections": [
+        "karan"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Easy bounce, shoulder roll.",
+      "originalVideoId": "oA0TDB0Lg5Y",
+      "tutorialVideoId": "yM1G-IV4POg",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "jee-ni-lagda",
+      "title": "Jee Ni Lagda",
+      "artist": "Karan Aujla (Making Memories, 2023)",
+      "sections": [
+        "karan"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo A or B; follow the beat.",
+      "originalVideoId": "B14cLnuoOaI",
+      "tutorialVideoId": "UHYnp5Dq4hs",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "what",
+      "title": "What...?",
+      "artist": "Karan Aujla",
+      "sections": [
+        "karan"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Shrug-and-point on the title line.",
+      "originalVideoId": "gi1BCqppYwo",
+      "tutorialVideoId": null,
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": null
+    },
+    {
+      "id": "making-memories",
+      "title": "Making Memories",
+      "artist": "Karan Aujla (this is the name of the 2023 album with Ikky, not a single song, so the video link goes to the official album playlist)",
+      "sections": [
+        "karan"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Easy bounce with a sway.",
+      "originalVideoId": null,
+      "tutorialVideoId": null,
+      "hookKind": "unofficial",
+      "originalPlaylistId": "PL5DigwkkJqqSIin98_I6qTzxmDruoHKW3",
+      "danceKind": null
+    },
+    {
+      "id": "hukam",
+      "title": "Hukam",
+      "artist": "Karan Aujla (single)",
+      "sections": [
+        "karan"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo A. Chest-out bhangra bounce with a command-point on “hukam”.",
+      "originalVideoId": "XhwRbwUHrCM",
+      "tutorialVideoId": "Gx5iGIzmOEo",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "antidote",
+      "title": "Antidote",
+      "artist": "Karan Aujla",
+      "sections": [
+        "karan"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Head-nod bounce.",
+      "originalVideoId": "NRlqJqpmV0k",
+      "tutorialVideoId": "cM8R0o2OpFU",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "p-o-v",
+      "title": "P.O.V",
+      "artist": "Karan Aujla",
+      "sections": [
+        "karan"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Easy bounce and point.",
+      "originalVideoId": "jXBLTsBCobQ",
+      "tutorialVideoId": null,
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": null
+    },
+    {
+      "id": "5-7",
+      "title": "5-7",
+      "artist": "Karan Aujla",
+      "sections": [
+        "karan"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Slow bounce, shoulder roll.",
+      "originalVideoId": "x9RC77Oc-0Q",
+      "tutorialVideoId": null,
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": null
+    },
+    {
+      "id": "low-fade",
+      "title": "Low Fade",
+      "artist": "Karan Aujla",
+      "sections": [
+        "karan"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Swag walk, touch your hair or fade line.",
+      "originalVideoId": "3j7bhOvW6jw",
+      "tutorialVideoId": "saUTO2avGKU",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "cover"
+    },
+    {
+      "id": "top-fella",
+      "title": "Top Fella",
+      "artist": "Karan Aujla",
+      "sections": [
+        "karan"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Swagger and point.",
+      "originalVideoId": "V1aGtu68hC4",
+      "tutorialVideoId": "sZb6Lx2jkjo",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "ashke",
+      "title": "Ashke",
+      "artist": "Karan Aujla",
+      "sections": [
+        "karan"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B, easy bounce.",
+      "originalVideoId": "Pd1yGW_g2T8",
+      "tutorialVideoId": "d_4B84q9f8o",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "straight-up",
+      "title": "Straight Up",
+      "artist": "Karan Aujla",
+      "sections": [
+        "karan"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Straight-line walk, bounce, point.",
+      "originalVideoId": "z0GnlhMnHyk",
+      "tutorialVideoId": "QwINiN7lOgo",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "real-bad-man",
+      "title": "Real Bad Man",
+      "artist": "Karan Aujla",
+      "sections": [
+        "karan"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Heavy swag walk.",
+      "originalVideoId": "B4nz0TB2_qo",
+      "tutorialVideoId": "t-SI3Cud0DA",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "rap-killa",
+      "title": "Rap Killa",
+      "artist": "Karan Aujla",
+      "sections": [
+        "karan"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Rap-style bounce and arm waves.",
+      "originalVideoId": "gMITloKqNTQ",
+      "tutorialVideoId": "c-ZvBc_kkyA",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "mf-gabhru",
+      "title": "MF Gabhru",
+      "artist": "Karan Aujla",
+      "sections": [
+        "karan"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo A or B. Bounce, chest pop.",
+      "originalVideoId": "Fbv6-50S1lc",
+      "tutorialVideoId": "P8AGKNhf90k",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "stereo-again",
+      "title": "Stereo Again",
+      "artist": "most likely “Love Stereo Again” (2023), Tiger Shroff, Zahrah S Khan, Tanishk Bagchi, Edward Maya",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Party bounce, hands up.",
+      "originalVideoId": "tj5WZuWJVS0",
+      "tutorialVideoId": "HB03-y3n9U4",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "laal-peeli-akhiyaan",
+      "title": "Laal Peeli Akhiyaan",
+      "artist": "Teri Baaton Mein Aisa Uljha Jiya (2024), Romy and Tanishk Bagchi, Shahid Kapoor and Kriti Sanon",
+      "sections": [
+        "dance",
+        "fun"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Shahid-style groove with shoulder bounce and spins.",
+      "originalVideoId": "ow77NqggH-0",
+      "tutorialVideoId": "DMtdXhagmb0",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "ankhiyaan-gulaab",
+      "title": "Ankhiyaan Gulaab",
+      "artist": "Teri Baaton Mein Aisa Uljha Jiya (2024), Mitraz",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D (couples) or a slow sway.",
+      "originalVideoId": "eSa_BvEisEc",
+      "tutorialVideoId": "RIYOvnM06V0",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "wedding"
+    },
+    {
+      "id": "teri-baaton-mein-uljha-jiya",
+      "title": "Teri Baaton Mein Uljha Jiya",
+      "artist": "Teri Baaton Mein Aisa Uljha Jiya (2024) title song",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Playful bounce and spin.",
+      "originalVideoId": "XLqmL9cPN1E",
+      "tutorialVideoId": "M_Zp8DT0hA4",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "yimmy-yimmy",
+      "title": "Yimmy Yimmy",
+      "artist": "Tayc and Shreya Ghoshal (2023 single)",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Hip sway, shoulder bounce, easy spin.",
+      "originalVideoId": "aTY01x8-OBs",
+      "tutorialVideoId": "6kC3JSy_4sQ",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "mein-nikla-gaddi-leke",
+      "title": "Mein Nikla Gaddi Leke",
+      "artist": "Gadar 2 (2023), Udit Narayan, Sunny Deol",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo A. Bhangra bounce, ek-hath-upar, drive an imaginary gaddi.",
+      "originalVideoId": "2nK6WBcGPOw",
+      "tutorialVideoId": "sC38qBGesbg",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "ankhiyon-se-goli-new",
+      "title": "Ankhiyon Se Goli (New)",
+      "artist": "2019 recreation, Pati Patni Aur Woh, Kartik Aaryan (not the 1998 Dulhe Raja original, which is also on your list)",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Party bounce, hands up, spin.",
+      "originalVideoId": "BCTbl7BXuug",
+      "tutorialVideoId": "qbo9xfxKqWg",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "lutt-putt-gaya",
+      "title": "Lutt Putt Gaya",
+      "artist": "Dunki (2023), Arijit Singh, Shah Rukh Khan",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Easy step-touch, arms swing, playful hop.",
+      "originalVideoId": "7CdpHATpXXU",
+      "tutorialVideoId": "h5ExDAuJd7Y",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "jamal-kudu",
+      "title": "Jamal Kudu",
+      "artist": "Animal (2023), Bobby Deol; the Iranian song “Jamal Jamaloo”",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Medium",
+      "hookSteps": "Bobby Deol’s glass-on-head entry. 1) Balance a glass (or flat hand) on your head. 2) Sway side to side. 3) Swing your free arm. 4) Shoulder shimmy.",
+      "sangeetVersion": "Everyone balances a glass on their head and sways; hilarious as a group.",
+      "originalVideoId": "PmdyY38g6Rg",
+      "tutorialVideoId": "3OkYYM90qU4",
+      "hookKind": "steps",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "main-parwana",
+      "title": "Main Parwana",
+      "artist": "Pippa (2023), Arijit Singh, music by A. R. Rahman",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Groove, hand waves, a spin.",
+      "originalVideoId": "BDKjWnPZYPQ",
+      "tutorialVideoId": "xKfgIlQJpTo",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "ve-maahi",
+      "title": "Ve Maahi",
+      "artist": "Kesari (2019), Arijit Singh and Asees Kaur",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D, romantic sway.",
+      "originalVideoId": "Z1-qmKn7DQY",
+      "tutorialVideoId": "wZDMIqvgxVc",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "9-45",
+      "title": "9:45",
+      "artist": "Prabh Singh featuring Jay Trak (2023 Punjabi single)",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo B. Easy bounce, shoulder roll.",
+      "originalVideoId": "df-E3c34j38",
+      "tutorialVideoId": "5AThDh2wOA4",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "pyaar-hota-kayi-baar-hai",
+      "title": "Pyaar Hota Kayi Baar Hai",
+      "artist": "Tu Jhoothi Main Makkaar (2023), Arijit Singh, Ranbir Kapoor",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D, sway.",
+      "originalVideoId": "2yeRRm9AIxI",
+      "tutorialVideoId": "CvjIipZFH20",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "tere-pyaar-mein",
+      "title": "Tere Pyaar Mein",
+      "artist": "Tu Jhoothi Main Makkaar (2023), Arijit Singh and Nikhita Gandhi",
+      "sections": [
+        "dance",
+        "fun"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D, sway (listed twice on your PDF).",
+      "originalVideoId": "IMg_UUJVpMo",
+      "tutorialVideoId": "-aU6ovEEW7I",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "show-me-the-thumka",
+      "title": "Show Me The Thumka",
+      "artist": "Tu Jhoothi Main Makkaar (2023), Ranbir Kapoor and Shraddha Kapoor",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "the thumka (hip thrust) is the hook: 1) hands on hips, 2) thumka right, 3) thumka left, 4) shoulder pop.",
+      "sangeetVersion": "Combo C with plenty of thumkas; a group favorite.",
+      "originalVideoId": "7TITTxxtA88",
+      "tutorialVideoId": "AANmyDshwgw",
+      "hookKind": "steps",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "what-jhumka",
+      "title": "What Jhumka",
+      "artist": "Rocky Aur Rani Kii Prem Kahaani (2023), Arijit Singh and Jonita Gandhi",
+      "sections": [
+        "dance",
+        "fun"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "the hook plays with jhumka (earring) gestures: 1) tap your earlobe, 2) shoulder bounce, 3) twirl.",
+      "sangeetVersion": "Ladies’ group dance: Combo C with the jhumka tap. Fun and easy.",
+      "originalVideoId": "P1fIdFRnfqw",
+      "tutorialVideoId": "A2FA83_3OCI",
+      "hookKind": "steps",
+      "originalPlaylistId": null,
+      "danceKind": "wedding"
+    },
+    {
+      "id": "o-bedardeya",
+      "title": "O Bedardeya",
+      "artist": "Tu Jhoothi Main Makkaar (2023), Arijit Singh",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D, slow sway.",
+      "originalVideoId": "EdftT8GMU1U",
+      "tutorialVideoId": "2m24-5D5c6A",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "cutiepie",
+      "title": "Cutiepie",
+      "artist": "Ae Dil Hai Mushkil (2016), Ranbir Kapoor and Anushka Sharma",
+      "sections": [
+        "dance",
+        "fun"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Playful bounce, pose, spin.",
+      "originalVideoId": "mVxMqmeeLXc",
+      "tutorialVideoId": "oU5yNdzBSfU",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "gulaabo",
+      "title": "Gulaabo",
+      "artist": "Shaandaar (2015), Alia Bhatt and Shahid Kapoor",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Bhangra bounce with a spin.",
+      "originalVideoId": "bUTdUaVmj8o",
+      "tutorialVideoId": "K4v1eKW0sjg",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "gal-mitthi-mitthi-bol",
+      "title": "Gal Mitthi Mitthi Bol",
+      "artist": "Aisha (2010), Tochi Raina, Amit Trivedi",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Light bounce, hand waves.",
+      "originalVideoId": "zkegtDRSUeQ",
+      "tutorialVideoId": "iCEUiI5IBdA",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "nachde-ne-saare",
+      "title": "Nachde Ne Saare",
+      "artist": "Baar Baar Dekho (2016), Jasleen Royal",
+      "sections": [
+        "dance",
+        "fun"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo A. Easy bhangra bounce, group circle.",
+      "originalVideoId": "vP_KFm4ho6M",
+      "tutorialVideoId": "GmXdqeTa73g",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "london-thumakda",
+      "title": "London Thumakda",
+      "artist": "Queen (2014), Neha Kakkar, Labh Janjua",
+      "sections": [
+        "dance",
+        "fun"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo A. Thumka, bounce, clap, spin.",
+      "originalVideoId": "udra3Mfw2oo",
+      "tutorialVideoId": "bBM21wBr5WM",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "maahi-ve",
+      "title": "Maahi Ve",
+      "artist": "Highway (2014), A. R. Rahman",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D, flowing sway.",
+      "originalVideoId": "NoSVyQShPP8",
+      "tutorialVideoId": "ihVVkMz-HqY",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "punjabi-wedding-song",
+      "title": "Punjabi Wedding Song",
+      "artist": "Hasee Toh Phasee (2014), Sona Mohapatra",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo A. Bhangra bounce, clap, ek-hath-upar, circle.",
+      "originalVideoId": "NuTx6Q4151s",
+      "tutorialVideoId": "5ofk-92hrok",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "lagdi-hai-thai",
+      "title": "Lagdi Hai Thai",
+      "artist": "Simran (2017), Guru Randhawa and Jonita Gandhi",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Easy bounce with spins.",
+      "originalVideoId": "UJcnSxGM5V0",
+      "tutorialVideoId": "gzuu5NYcFxI",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "dil-diyan-gallan",
+      "title": "Dil Diyan Gallan",
+      "artist": "Tiger Zinda Hai (2017), Atif Aslam",
+      "sections": [
+        "dance",
+        "fun"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D. Slow sway, partner twirl.",
+      "originalVideoId": "SAcpESN_Fk4",
+      "tutorialVideoId": "DiHeOr5xzs0",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "makhna",
+      "title": "Makhna",
+      "artist": "Drive (2019), Yo Yo Honey Singh and Neha Kakkar",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo B. Light bounce and swag.",
+      "originalVideoId": "dr8GnOaM1ig",
+      "tutorialVideoId": "El9OumCGLWI",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "disco-disco",
+      "title": "Disco Disco",
+      "artist": "A Gentleman (2017), Benny Dayal and Shirley Setia",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo F. Retro disco point plus hips.",
+      "originalVideoId": "I5SzASOuZVA",
+      "tutorialVideoId": "2DC3toh2xXs",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "drama-queen",
+      "title": "Drama Queen",
+      "artist": "Hasee Toh Phasee (2014), Shreya Ghoshal and Vishal Dadlani",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Bounce with attitude, hair flip.",
+      "originalVideoId": "0Qs-Suk42dY",
+      "tutorialVideoId": "D5B2x0jAKO4",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "ghagra",
+      "title": "Ghagra",
+      "artist": "Yeh Jawaani Hai Deewani (2013), Madhuri Dixit and Ranbir Kapoor",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C with a ghagra twirl for the women.",
+      "originalVideoId": "T0BQ86ejaGg",
+      "tutorialVideoId": "K-VxMUmhNUk",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "laal-ghagra",
+      "title": "Laal Ghagra",
+      "artist": "Good Newwz (2019), Manj Musik, Herbie Sahara and Neha Kakkar",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo A. Lohri-style bhangra, twirl your skirt or dupatta.",
+      "originalVideoId": "iXP1HvvN_A4",
+      "tutorialVideoId": "e4qD3GTh0hQ",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "jalebi-baby",
+      "title": "Jalebi Baby",
+      "artist": "Tesher (2018 single)",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Easy bounce, hands up, spin.",
+      "originalVideoId": "CTmKrwFu7wg",
+      "tutorialVideoId": "MBzbTZ8foc0",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "say-na-say-na",
+      "title": "Say Na Say Na",
+      "artist": "Bluffmaster! (2005), Aneela Mirza and others",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo F. Retro-pop bounce, hips, spin.",
+      "originalVideoId": "xDkE7bTiWLo",
+      "tutorialVideoId": "eq8NnQEHb10",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "sweety-tera-drama",
+      "title": "Sweety Tera Drama",
+      "artist": "Bareilly Ki Barfi (2017), Ayushmann Khurrana and Kriti Sanon",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Playful bounce, shoulder shimmy.",
+      "originalVideoId": "pgb67ju0tss",
+      "tutorialVideoId": "UzjzD5lq6tk",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "bijli-bijli",
+      "title": "Bijli Bijli",
+      "artist": "Harrdy Sandhu (2021 single); the PDF also lists it as “Bijli”",
+      "sections": [
+        "dance",
+        "fun"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No official choreography. The sangeet version is a suggested combo, not the original steps.",
+      "sangeetVersion": "Combo A or B. Electric bounce, a point to the sky on the “bijli” line.",
+      "originalVideoId": "IZDbfXjZ0Bw",
+      "tutorialVideoId": "-pHSnR8r2LM",
+      "hookKind": "unofficial",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "nagada-nagada",
+      "title": "Nagada Nagada",
+      "artist": "Jab We Met (2007), Shahid Kapoor",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo A. Dhol-style bounce, hand claps.",
+      "originalVideoId": "_2XqcdqTaFo",
+      "tutorialVideoId": "nNNApvKZzDY",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "maa-da-ladla-bigad-gaya",
+      "title": "Maa Da Ladla Bigad Gaya",
+      "artist": "Dostana (2008), sung by Kirron Kher",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Fun with hip shake and hand claps.",
+      "originalVideoId": "LCqEVvBcg04",
+      "tutorialVideoId": "7E0flklKKiE",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "tumhi-ho-bandhu-sakha-tumhi",
+      "title": "Tumhi Ho Bandhu Sakha Tumhi",
+      "artist": "Cocktail (2012)",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo E, easy group sway; good for friends’ dances.",
+      "originalVideoId": "o1RducJbUdc",
+      "tutorialVideoId": "8GVzGTwvPFc",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "dilliwali-girlfriend",
+      "title": "Dilliwali Girlfriend",
+      "artist": "Yeh Jawaani Hai Deewani (2013), Sunidhi Chauhan and Arijit Singh",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Playful bounce, hip shake.",
+      "originalVideoId": "BtIEdCsGdO8",
+      "tutorialVideoId": "q3eMV0ANGdw",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "chandigarh-mein",
+      "title": "Chandigarh Mein",
+      "artist": "Good Newwz (2019), Badshah, Harrdy Sandhu, Lisa Mishra and Asees Kaur",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo A. Party bhangra bounce.",
+      "originalVideoId": "yt4-qlU__iM",
+      "tutorialVideoId": "TlktxlMvPyw",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "rukhi-sukhi-roti",
+      "title": "Rukhi Sukhi Roti",
+      "artist": "Nayak: The Real Hero (2001), Alka Yagnik and Shankar Mahadevan",
+      "sections": [
+        "dance"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Easy, goofy step-touch with hand gestures.",
+      "originalVideoId": "NbHOwN_iPaI",
+      "tutorialVideoId": "2IwZhFLd-jQ",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "aaj-ki-raat",
+      "title": "Aaj Ki Raat",
+      "artist": "Stree 2 (2024), Tamannaah Bhatia, Sachin–Jigar, Madhubanti Bagchi and Divya Kumar",
+      "sections": [
+        "fun"
+      ],
+      "difficulty": "Medium",
+      "hookSteps": "Tamannaah posted her own hook-step tutorial after fans asked; use it for exact counts.",
+      "sangeetVersion": "Glamorous solo or small-group number: Combo C with confident hip work.",
+      "originalVideoId": "hxMNYkLN7tI",
+      "tutorialVideoId": "PSp3IBeOdQU",
+      "hookKind": "steps",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "aayi-nai",
+      "title": "Aayi Nai",
+      "artist": "Stree 2 (2024), Pawan Singh, Simran Choudhary and Divya Kumar",
+      "sections": [
+        "fun"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Fun group dance: Combo C with a playful hand-point on the title line.",
+      "originalVideoId": "0nrvPVnTWlc",
+      "tutorialVideoId": "6DrRTsaP-KU",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "taras",
+      "title": "Taras",
+      "artist": "Munjya (2024), Jasmine Sandlas and Sachin–Jigar",
+      "sections": [
+        "fun"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Easy and sassy; suits a girls’ group.",
+      "originalVideoId": "aJ8a9Cos9lM",
+      "tutorialVideoId": "_hvzSeKHyKc",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "thumkeshwari",
+      "title": "Thumkeshwari",
+      "artist": "Bhediya (2022), Varun Dhawan and Kriti Sanon, Sachin–Jigar",
+      "sections": [
+        "fun"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C with thumkas on the hook; group-friendly.",
+      "originalVideoId": "UKA31XLzsNA",
+      "tutorialVideoId": "nf9JpmyAvD4",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "param-sundari",
+      "title": "Param Sundari",
+      "artist": "Mimi (2021), A. R. Rahman and Shreya Ghoshal, Kriti Sanon",
+      "sections": [
+        "fun"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Sway and hand-flow, spin on the chorus.",
+      "originalVideoId": "w4ClQO0FFQg",
+      "tutorialVideoId": "oF7z5KLiECg",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "genda-phool",
+      "title": "Genda Phool",
+      "artist": "Badshah and Payal Dev (2020 single)",
+      "sections": [
+        "fun",
+        "oldBolly"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo A. Bounce, thumka, clap, circle.",
+      "originalVideoId": "SD4Z8dlZPd8",
+      "tutorialVideoId": "lopDxLA5jUc",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "galti-se-mistake",
+      "title": "Galti Se Mistake",
+      "artist": "Jagga Jasoos (2017), Arijit Singh and Amit Mishra",
+      "sections": [
+        "fun"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Easy and playful.",
+      "originalVideoId": "05TA9jNnCdU",
+      "tutorialVideoId": "O6KDwHar7Q4",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "ishq-wala-love",
+      "title": "Ishq Wala Love",
+      "artist": "Student of the Year (2012)",
+      "sections": [
+        "fun"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C with a romantic spin.",
+      "originalVideoId": "N2cPyl83tkQ",
+      "tutorialVideoId": "ySMEIycglvA",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "wedding"
+    },
+    {
+      "id": "rangisari",
+      "title": "Rangisari",
+      "artist": "JugJugg Jeeyo (2022)",
+      "sections": [
+        "fun"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo A. Folk-style bounce and clap.",
+      "originalVideoId": "bSAlE_WgHxY",
+      "tutorialVideoId": "h8fQbjf5VfU",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "ghungroo",
+      "title": "Ghungroo",
+      "artist": "War (2019), Arijit Singh and Shilpa Rao, Hrithik Roshan and Vaani Kapoor",
+      "sections": [
+        "fun"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Smooth sway, spin; couples can pair up.",
+      "originalVideoId": "qFkNATtc3mc",
+      "tutorialVideoId": "WLsgAhkr44s",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "nashe-si-chadh-gayi",
+      "title": "Nashe Si Chadh Gayi",
+      "artist": "Befikre (2016), Arijit Singh, Ranveer Singh and Vaani Kapoor",
+      "sections": [
+        "fun"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Bounce and spin.",
+      "originalVideoId": "Wd2B8OAotU8",
+      "tutorialVideoId": "gr90NW1o0GM",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "zaalima",
+      "title": "Zaalima",
+      "artist": "Raees (2017), Arijit Singh and Harshdeep Kaur, Shah Rukh Khan and Mahira Khan",
+      "sections": [
+        "fun"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D. Slow, sensual sway.",
+      "originalVideoId": "lpdRqn6xwiM",
+      "tutorialVideoId": "tQVjFLx38EE",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "bole-chudiyan",
+      "title": "Bole Chudiyan",
+      "artist": "Kabhi Khushi Kabhie Gham (2001)",
+      "sections": [
+        "oldBolly",
+        "classics"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Family-style bounce and clap.",
+      "originalVideoId": "IBvg3WeqP1U",
+      "tutorialVideoId": "4lxPSZetRX4",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "sapne-mein-milte-hain",
+      "title": "Sapne Mein Milte Hain",
+      "artist": "possibly from Satya (1998); title as listed",
+      "sections": [
+        "oldBolly"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo F. Easy retro bounce.",
+      "originalVideoId": "aY4tvbb88C4",
+      "tutorialVideoId": "AT9EswxCvfw",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "wedding"
+    },
+    {
+      "id": "urvasi-urvasi",
+      "title": "Urvasi Urvasi",
+      "artist": "Kadhalan (1994, Tamil), A. R. Rahman, Prabhu Deva; Hindi version in Humse Hai Muqabla",
+      "sections": [
+        "oldBolly"
+      ],
+      "difficulty": "Hard",
+      "hookSteps": "Prabhu Deva’s legendary fast footwork; too fast for beginners.",
+      "sangeetVersion": "Simplify to Combo C: step-touch fast, hands pumping, spin.",
+      "originalVideoId": "kZzfFCly2S8",
+      "tutorialVideoId": "lQ6XITajyew",
+      "hookKind": "steps",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "kisi-disco-mein-jaaye",
+      "title": "Kisi Disco Mein Jaaye",
+      "artist": "Bade Miyan Chote Miyan (1998), Udit Narayan and Alka Yagnik",
+      "sections": [
+        "oldBolly",
+        "classics"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo F. Disco point and hip shake.",
+      "originalVideoId": "TMEuO92RqD4",
+      "tutorialVideoId": "aQ22uvoEd8M",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "chunari-chunari",
+      "title": "Chunari Chunari",
+      "artist": "Biwi No.1 (1999), Salman Khan and Karisma Kapoor",
+      "sections": [
+        "oldBolly",
+        "classics"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Easy bounce and dupatta wave.",
+      "originalVideoId": "6z1U-kJ3xJE",
+      "tutorialVideoId": "BxkWXX0ilSY",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "its-the-time-to-disco",
+      "title": "It's The Time To Disco",
+      "artist": "Kal Ho Naa Ho (2003), Shankar–Ehsaan–Loy",
+      "sections": [
+        "oldBolly",
+        "classics"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo F. Disco point, bounce, arms up.",
+      "originalVideoId": "M03GOY5eINg",
+      "tutorialVideoId": "cdUx9JVYOKA",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "wheres-the-party-tonight",
+      "title": "Where's The Party Tonight",
+      "artist": "Kabhi Alvida Naa Kehna (2006)",
+      "sections": [
+        "oldBolly",
+        "classics"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Party bounce and hands up.",
+      "originalVideoId": "ifT-NS_E7EY",
+      "tutorialVideoId": "-yhSD_HFdMs",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "wedding"
+    },
+    {
+      "id": "piya-piya-o-piya",
+      "title": "Piya Piya O Piya",
+      "artist": "Har Dil Jo Pyar Karega (2000)",
+      "sections": [
+        "oldBolly"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Playful bounce and spins.",
+      "originalVideoId": "gvpon-5Dkkg",
+      "tutorialVideoId": "7mEVxNLsPmg",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "mast-kalandar",
+      "title": "Mast Kalandar",
+      "artist": "“Damaa Dam Mast Kalandar”, Welcome Back (2015), Mika Singh and Yo Yo Honey Singh",
+      "sections": [
+        "oldBolly"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo A. Dhol bounce, thumka, ek-hath-upar.",
+      "originalVideoId": "xDmyaffqpMA",
+      "tutorialVideoId": "c8pEc79k0VU",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "das-bahane",
+      "title": "Das Bahane",
+      "artist": "Dus (2005), KK and Shaan",
+      "sections": [
+        "oldBolly"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Easy bounce, hips and hand waves.",
+      "originalVideoId": "qE3DfF66DNA",
+      "tutorialVideoId": "yEe3KYnAK6o",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "cover"
+    },
+    {
+      "id": "its-rocking",
+      "title": "It's Rocking",
+      "artist": "Kya Love Story Hai (2007), Alisha Chinai and Pritam",
+      "sections": [
+        "oldBolly"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Playful bounce, spin, hands up.",
+      "originalVideoId": "gVqfezvGvN4",
+      "tutorialVideoId": "_jeccp-HAuw",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "let-the-music-play",
+      "title": "Let The Music Play",
+      "artist": "originally Shamur (2008); reimagined as “Nadiyon Paar” in Roohi (2021)",
+      "sections": [
+        "oldBolly"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. High-energy bounce, hands up.",
+      "originalVideoId": "szuDUxkW_44",
+      "tutorialVideoId": "PD42Q-0Mfj0",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "le-gayi-le-gayi",
+      "title": "Le Gayi Le Gayi",
+      "artist": "Dil To Pagal Hai (1997)",
+      "sections": [
+        "oldBolly"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Easy bounce and hip sway.",
+      "originalVideoId": "dGZb1kv5zW0",
+      "tutorialVideoId": "juIkw0iVqX4",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "koi-mil-gaya",
+      "title": "Koi Mil Gaya",
+      "artist": "Kuch Kuch Hota Hai (1998)",
+      "sections": [
+        "oldBolly"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D (couples) or a gentle sway.",
+      "originalVideoId": "Jzd4bma3QNo",
+      "tutorialVideoId": "I-70wD_616A",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "sharara-sharara",
+      "title": "Sharara Sharara",
+      "artist": "Mere Yaar Ki Shaadi Hai (2002)",
+      "sections": [
+        "oldBolly"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Playful sway and hip shake.",
+      "originalVideoId": "LwjR20lX4aY",
+      "tutorialVideoId": "qNlxzcjPrk4",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "chaiyya-chaiyya",
+      "title": "Chaiyya Chaiyya",
+      "artist": "Dil Se (1998), A. R. Rahman, Shah Rukh Khan and Malaika Arora",
+      "sections": [
+        "oldBolly",
+        "classics"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "famous for being filmed on a moving train’s roof; steps are a side-sway with arms spread.",
+      "sangeetVersion": "Combo C: side shuffle with arm waves, hands up on the chorus.",
+      "originalVideoId": "K-pX4qwtAxA",
+      "tutorialVideoId": "hdXmKJKU3eY",
+      "hookKind": "steps",
+      "originalPlaylistId": null,
+      "danceKind": "wedding"
+    },
+    {
+      "id": "dance-pe-chance",
+      "title": "Dance Pe Chance",
+      "artist": "Rab Ne Bana Di Jodi (2008), Shah Rukh Khan",
+      "sections": [
+        "oldBolly"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Easy bounce, hands up.",
+      "originalVideoId": "rap8SoUIPaw",
+      "tutorialVideoId": "6tIUZPdFJgI",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "yeh-ladka-hai-allah",
+      "title": "Yeh Ladka Hai Allah",
+      "artist": "Kabhi Khushi Kabhie Gham (2001)",
+      "sections": [
+        "oldBolly"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Playful bounce and pointing.",
+      "originalVideoId": "BE8_rNJOQ-0",
+      "tutorialVideoId": "uGJOocyNY3E",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "dola-re-dola",
+      "title": "Dola Re Dola",
+      "artist": "Devdas (2002), Aishwarya Rai and Madhuri Dixit",
+      "sections": [
+        "classics"
+      ],
+      "difficulty": "Hard",
+      "hookSteps": "classical-style graceful swaying with hand circles.",
+      "sangeetVersion": "Simplify to Combo E: sway, hand circles, a chakkar. The original is hard.",
+      "originalVideoId": "iZ5UItyEpGE",
+      "tutorialVideoId": "0KdNVhbp1XQ",
+      "hookKind": "steps",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "chamma-chamma",
+      "title": "Chamma Chamma",
+      "artist": "China Gate (1998), Urmila Matondkar",
+      "sections": [
+        "classics"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Hip shake, hand waves.",
+      "originalVideoId": "1ZnPY1c3u_0",
+      "tutorialVideoId": "CNQ93QodH20",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "ole-ole",
+      "title": "Ole Ole",
+      "artist": "Yeh Dillagi (1994), Saif Ali Khan and Kajol",
+      "sections": [
+        "classics"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo F. Retro bounce, hip shake.",
+      "originalVideoId": "hcCvSmjHwGY",
+      "tutorialVideoId": "Xo6vw52k5Uk",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "mere-khwabon-mein",
+      "title": "Mere Khwabon Mein",
+      "artist": "Dilwale Dulhania Le Jayenge (1995)",
+      "sections": [
+        "classics"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo E. Playful sway.",
+      "originalVideoId": "s1LozokQjIg",
+      "tutorialVideoId": "RsWqLOAP1i8",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "tan-tana-tan-tan",
+      "title": "Tan Tana Tan Tan",
+      "artist": "Judwaa (1996), Abhijeet and Poornima",
+      "sections": [
+        "classics"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo F. Retro bounce and spin.",
+      "originalVideoId": "qeOfhT44XWg",
+      "tutorialVideoId": "cJsb_6nTaBc",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "saat-samundar-paar",
+      "title": "Saat Samundar Paar",
+      "artist": "Vishwatma (1992), Divya Bharti, Sadhana Sargam",
+      "sections": [
+        "classics"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo E. Playful hip sway and spin.",
+      "originalVideoId": "Dg7Z0YPlHY4",
+      "tutorialVideoId": "zFScE55WQAI",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "ankhiyon-se-goli-maaro",
+      "title": "Ankhiyon Se Goli Maaro",
+      "artist": "Dulhe Raja (1998), Govinda and Raveena Tandon",
+      "sections": [
+        "classics"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Fun, goofy bounce with pretend-gun fingers.",
+      "originalVideoId": "rY_0SOlmrdY",
+      "tutorialVideoId": "nylV-lKfitY",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "you-are-my-soniya",
+      "title": "You Are My Soniya",
+      "artist": "Kabhi Khushi Kabhie Gham (2001)",
+      "sections": [
+        "classics"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo D. Easy sway.",
+      "originalVideoId": "2qBWL5Fplu0",
+      "tutorialVideoId": "LsE8YIEls20",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "wedding"
+    },
+    {
+      "id": "deewangi-deewangi",
+      "title": "Deewangi Deewangi",
+      "artist": "Om Shanti Om (2007)",
+      "sections": [
+        "classics"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Easy bounce, group pointing.",
+      "originalVideoId": "7JFFl0lGrac",
+      "tutorialVideoId": "ZeG5e0Bl3gc",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "desi-girl",
+      "title": "Desi Girl",
+      "artist": "Dostana (2008), Priyanka Chopra",
+      "sections": [
+        "classics"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Hip sway, hair flip, spin.",
+      "originalVideoId": "wDIrpvH8MzE",
+      "tutorialVideoId": "67gbnfOPu7g",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "soni-de-nakhre",
+      "title": "Soni De Nakhre",
+      "artist": "Partner (2007), Salman Khan",
+      "sections": [
+        "classics"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo A. Bhangra bounce, ek-hath-upar.",
+      "originalVideoId": "GFljvZMZI0U",
+      "tutorialVideoId": "E4FxN48U60U",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "aaja-nachle",
+      "title": "Aaja Nachle",
+      "artist": "Aaja Nachle (2007), Madhuri Dixit",
+      "sections": [
+        "classics"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Easy bounce, circle.",
+      "originalVideoId": "MP4F0ZcW_G0",
+      "tutorialVideoId": "LRDQ8Yjy1Go",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "dard-e-disco",
+      "title": "Dard-E-Disco",
+      "artist": "Om Shanti Om (2007), Shah Rukh Khan",
+      "sections": [
+        "classics"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo F. Retro disco moves, arms in the air.",
+      "originalVideoId": "GBVbEaXp060",
+      "tutorialVideoId": "RcJz2hTXeNg",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "jumma-chumma-de-de",
+      "title": "Jumma Chumma De De",
+      "artist": "Hum (1991), Amitabh Bachchan",
+      "sections": [
+        "classics"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo F. Retro bounce, hip shake, hand wave.",
+      "originalVideoId": "NNQkWpD7YTE",
+      "tutorialVideoId": "Nb395vgVC9Y",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "ek-do-teen",
+      "title": "Ek Do Teen",
+      "artist": "Tezaab (1988), Madhuri Dixit",
+      "sections": [
+        "classics"
+      ],
+      "difficulty": "Medium",
+      "hookSteps": "Madhuri’s counting step with hip-swirls (simplified).",
+      "sangeetVersion": "Count 1, 2, 3 on your fingers with a hip shake each time, then spin.",
+      "originalVideoId": "dx57HiK1wUg",
+      "tutorialVideoId": "0GM72uZtt0c",
+      "hookKind": "steps",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "dhak-dhak-karne-laga",
+      "title": "Dhak Dhak Karne Laga",
+      "artist": "Beta (1992), Madhuri Dixit and Anil Kapoor",
+      "sections": [
+        "classics"
+      ],
+      "difficulty": "Medium",
+      "hookSteps": "heartbeat gesture: 1) palm on chest, 2) pulse it twice, 3) shoulder shimmy (simplified).",
+      "sangeetVersion": "Heartbeat gesture, hip sway, spin. Makes everyone laugh.",
+      "originalVideoId": "P7i0Z4yDKNM",
+      "tutorialVideoId": "VR0slwNRoNo",
+      "hookKind": "steps",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "hawa-hawai",
+      "title": "Hawa Hawai",
+      "artist": "Mr. India (1987), Sridevi",
+      "sections": [
+        "classics"
+      ],
+      "difficulty": "Medium",
+      "hookSteps": "twirling arms-up spins (simplified).",
+      "sangeetVersion": "Combo F with big arm swirls and a spin.",
+      "originalVideoId": "IgKdXLfxgQQ",
+      "tutorialVideoId": "bACkzZ5mTl8",
+      "hookKind": "steps",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "i-am-a-disco-dancer",
+      "title": "I Am A Disco Dancer",
+      "artist": "Disco Dancer (1982), Mithun Chakraborty",
+      "sections": [
+        "classics"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "disco pointing: arm up diagonally, then across, with a hip swivel.",
+      "sangeetVersion": "Combo F: point up, point across, hip swivel.",
+      "originalVideoId": "f2kyzUqgf5s",
+      "tutorialVideoId": "FenKIj5jMBk",
+      "hookKind": "steps",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "jimmy-jimmy-aaja-aaja",
+      "title": "Jimmy Jimmy Aaja Aaja",
+      "artist": "Disco Dancer (1982), Parvati Khan",
+      "sections": [
+        "classics"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo F. Retro bounce, hand waves.",
+      "originalVideoId": "nqXbYwSnQz0",
+      "tutorialVideoId": "yzzhg_tJsHY",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "my-name-is-lakhan",
+      "title": "My Name Is Lakhan",
+      "artist": "Ram Lakhan (1989), Anil Kapoor",
+      "sections": [
+        "classics"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Strutting walk, pointing.",
+      "originalVideoId": "KaUOJYQuakU",
+      "tutorialVideoId": "tJQva72msI4",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "tutorial"
+    },
+    {
+      "id": "aap-jaisa-koi",
+      "title": "Aap Jaisa Koi",
+      "artist": "Qurbani (1980), Zeenat Aman, Nazia Hassan",
+      "sections": [
+        "classics"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo F. Slow, sassy hip sway.",
+      "originalVideoId": "UdDmaPx8CoM",
+      "tutorialVideoId": "5sLlqMfgK7c",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    },
+    {
+      "id": "om-shanti-om",
+      "title": "Om Shanti Om",
+      "artist": "Om Shanti Om (2007), Shah Rukh Khan, title song",
+      "sections": [
+        "classics"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "No single famous hook step. Treat the original as general party choreography, and use the sangeet version below.",
+      "sangeetVersion": "Combo C. Big group energy, pointing, spin.",
+      "originalVideoId": "egd-86smC8s",
+      "tutorialVideoId": "F7vf2-1BQdE",
+      "hookKind": "none",
+      "originalPlaylistId": null,
+      "danceKind": "cover"
+    },
+    {
+      "id": "khaike-paan-banaraswala",
+      "title": "Khaike Paan Banaraswala",
+      "artist": "Don (1978), Amitabh Bachchan, Kishore Kumar",
+      "sections": [
+        "classics"
+      ],
+      "difficulty": "Easy",
+      "hookSteps": "paan-chewing mime and a swaggering walk.",
+      "sangeetVersion": "Combo F. Chew-mime, swagger, shoulder lean, spin.",
+      "originalVideoId": "jSKY6fmh-wI",
+      "tutorialVideoId": "M4M86lX81AI",
+      "hookKind": "steps",
+      "originalPlaylistId": null,
+      "danceKind": "choreography"
+    }
+  ]
+}
